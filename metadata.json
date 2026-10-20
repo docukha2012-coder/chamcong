@@ -1,0 +1,6 @@
+{
+  "name": "QR Chấm Công Nội Bộ & Đồng Bộ Google Sheets",
+  "description": "Hệ thống web app chấm công nhân viên qua mã QR nội bộ, kiểm tra kết nối WiFi, tự động tính trạng thái Đi trễ / Đúng giờ và đồng bộ dữ liệu Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
